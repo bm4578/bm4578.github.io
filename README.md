@@ -4,7 +4,7 @@
 
 # 搭建教程
 
-[参考教程](https://bm4578.github.io/2022/12/10/Hexo博客搭建/) 、[官方教程](https://hexo.io/zh-cn/) 、[Markdown 语法](https://markdown.com.cn/basic-syntax/)
+[参考教程](https://bm4578.github.io/2022/12/10/Hexo博客搭建/) 、[官方教程](https://hexo.io/zh-cn/)
 
 # 主题选择
 
